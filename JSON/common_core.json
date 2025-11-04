@@ -1,0 +1,3387 @@
+{
+  "profileRevision" : 1,
+  "profileId" : "common_core",
+  "profileChangesBaseRevision" : 1,
+  "profileChanges" : [ {
+    "changeType" : "fullProfileUpdate",
+    "enableConstructDelta" : true,
+    "profile" : {
+      "created" : "2018-08-29T18:34:14.600Z",
+      "updated" : "2025-11-03T16:34:41.736Z",
+      "rvn" : 1,
+      "wipeNumber" : 1,
+      "accountId" : "",
+      "profileId" : "common_core",
+      "version" : "PyNite",
+      "stats" : {
+        "attributes" : {
+          "promotion_status" : {
+            "promoName" : "disney",
+            "eligible" : true,
+            "redeemed" : false,
+            "notified" : true
+          },
+          "survey_data" : {
+            "allSurveysMetadata" : {
+              "numTimesCompleted" : 1,
+              "lastTimeCompleted" : "2069-10-13T12:29:05.669Z"
+            },
+            "metadata" : {
+              "190808_locc_starry suburbs_fnbr" : {
+                "numTimesCompleted" : 1,
+                "lastTimeCompleted" : "2067-10-13T12:29:05.669Z"
+              }
+            }
+          },
+          "subs" : {
+            "progressables" : {
+              "ECC9BB764DA61302D8E4BFA7DF4612EE" : {
+                "acquiredDate" : "2024-12-04T21:59:21.000Z",
+                "stage" : 2,
+                "nextStageRewardDate" : "2025-02-01T00:00:00.000Z"
+              },
+              "00BB2C034C67F01A19F31CBFA286C12F" : {
+                "acquiredDate" : "2024-01-01T00:00:00.000Z",
+                "stage" : 3,
+                "nextStageRewardDate" : "2025-02-01T00:00:00.000Z"
+              },
+              "DAFB036C449E4A0C7F6C148F2526A24D" : {
+                "acquiredDate" : "2025-01-01T00:00:00.000Z",
+                "stage" : 1,
+                "nextStageRewardDate" : "2025-02-01T00:00:00.000Z"
+              },
+              "0C7EF37549C38E77572065961DB76B30" : {
+                "acquiredDate" : "2024-04-23T18:06:20.000Z",
+                "stage" : 3,
+                "nextStageRewardDate" : "2025-02-01T00:00:00.000Z"
+              },
+              "6D0C3E324CDC4FA27B051CA6C5E079AA" : {
+                "acquiredDate" : "2024-05-01T00:00:00.000Z",
+                "stage" : 2,
+                "nextStageRewardDate" : "2025-02-01T00:00:00.000Z"
+              },
+              "BA3DBAAB43E7411EDFA68D853F812354" : {
+                "acquiredDate" : "2023-12-16T12:12:40.000Z",
+                "stage" : 4,
+                "nextStageRewardDate" : "2025-02-01T00:00:00.000Z"
+              }
+            }
+          },
+          "item_sync" : {
+            "lastCheckSum" : "619f564b5743d23bd4a3a3282da911e3"
+          },
+          "intro_game_played" : true,
+          "mtx_purchase_history" : {
+            "refundsUsed" : 0,
+            "purchases" : [ ],
+            "refundCredits" : 10000000,
+            "tokenRefreshReferenceTime" : "2025-10-14T00:00:00.000Z"
+          },
+          "undo_cooldowns" : [ {
+            "offerId" : "v2:/2caa764f0cafaa23fcad59005176f074d0969bf0a495dac8f2c56b080581d038",
+            "cooldownExpires" : "2024-12-12T18:34:14.415Z"
+          } ],
+          "mtx_affiliate_set_time" : "2025-05-06T22:29:41.906Z",
+          "current_mtx_platform" : "IOSAppStore",
+          "mtx_affiliate" : "asnee",
+          "daily_purchases" : {
+            "lastInterval" : "2024-09-21T00:00:00.000Z",
+            "purchaseList" : {
+              "4D64CBE3618D41FBB5CAD0E472F4610A" : 2
+            }
+          },
+          "in_app_purchases" : {
+            "receipts" : [ ],
+            "fulfillmentCounts" : {
+              "435888534655C89F6FE5898726C99967" : 13,
+              "3C9B0C4947BE9BD59AE7DC8745902117" : 3,
+              "E1973F8643274A8FA14E26ABBEAE6C80" : 1,
+              "16FE4B0F4B28DBFA33697B9DFFFEED57" : 1,
+              "F42084754CA2B6D5B418F69ED0594C3D" : 1,
+              "33E185A84ED7B64F2856E69AADFD092C" : 9,
+              "DADD6A284918A39BF18C25BEDDC4703B" : 2,
+              "70DBDA11425B10AF7A005D82DB54BC59" : 8,
+              "900155344CB7353094D848946E03921F" : 1,
+              "9DF02EA14FB15E475EBBEBBFDBB988DB" : 1,
+              "E7D628C24225728903CADD9E5B05895F" : 1,
+              "94C83B2741366627D9FAB09D82970F83" : 1,
+              "0B9744564C060B56FD0DE4A5F05A2E39" : 1,
+              "0CABADDD430F604CCD8110BBDC23CC9A" : 1,
+              "7F19939B4239C5188C3DF2A14142A298" : 4,
+              "89DED540434B169187E1D6A5C2086AA2" : 1,
+              "A7977361446003B22ABFB2BED258C19C" : 1,
+              "2405CF5D42EF4CAB7B6571B0368A6E74" : 1,
+              "817F6B1B40214571D32E0CA9F89B616F" : 1,
+              "ECC9BB764DA61302D8E4BFA7DF4612EE" : 2,
+              "2E43CCD24C3BE8F5ABBDF28E233B9350" : 1,
+              "446E61DC40B929E3A8D100A3396EDBA3" : 1,
+              "3C1777684B7D65BECE90F28BB05CB4AF" : 1,
+              "7D27C04A4085521A2067229712622A78" : 1,
+              "FN_2800_POINTS" : 10,
+              "DD42D3964F6C255387B627815F53C722" : 1,
+              "DAFB036C449E4A0C7F6C148F2526A24D" : 1,
+              "EE9BB51E464DDA825003F2B725FF90B6" : 1,
+              "6FF95E3645D2007D8BC0F2BC36BCBEAD" : 1,
+              "FF93471F44E5099C23198BA7EC3EC67E" : 1,
+              "AC74D98D4366628A38E3B28EA7346C5F" : 1,
+              "571D433C47E98F020EF099894CAF3B6A" : 1,
+              "74724962400E3556CA2830852B0E01B1" : 1,
+              "C677E22244C444256A79ACA0C59BAE7D" : 2,
+              "2CE368CB4AC1789E489B0CA0B5234813" : 1,
+              "74DD582C489507D076E5C5AAA08AFE96" : 1,
+              "FN_1000_POINTS" : 14,
+              "6D0C3E324CDC4FA27B051CA6C5E079AA" : 2,
+              "86621F6F44FBB60A17851E900CD4606D" : 1,
+              "9DD9DF2E410A3F12D437ECBB918783C7" : 1,
+              "53850427475AA6BC8E73B88E619D89AC" : 1,
+              "CF78A7AB41F59B39BE3FC7B3248A77DF" : 1,
+              "00BB2C034C67F01A19F31CBFA286C12F" : 3,
+              "5FD82F3A44CF79D64AF2C6A79F93E62D" : 1,
+              "8F2B475C4C8952E91F9570B7D9678C57" : 1,
+              "A988EFCF44D4401571F1C3876ABDF304" : 1,
+              "398B82E047977D29C34CC8A205A675FC" : 1,
+              "D77573854D654B6C3C88F3BEBF852ECE" : 1,
+              "E9AD46E848A082CB54C6C5B8E98375E7" : 1,
+              "C7190ACA4E5E228A94CA3CB9C3FC7AE9" : 1,
+              "E4A48697411CC05D6F5609918D6D1881" : 1,
+              "A3823EB44D33F86465CEC9B3CC57B8AD" : 1,
+              "26CF172A47158C0F61550B84EC9F5152" : 1,
+              "601C6830460BFED07506F5A6D2C4CE7B" : 1,
+              "39E078BE46D0C9BF7E7D9CA0EE75286B" : 1,
+              "D35F5A014335D4BD89BC0BA04C7252BD" : 1,
+              "C275C1864C887D3F79B64EA0082EC09A" : 1,
+              "350050574100C333CB9ACA8D1CEF9BF6" : 11,
+              "19D35E9B40B07AE37CD165AB4CF7AB33" : 6,
+              "9579C9CE48749FC2E1F35FA7C65ABF14" : 1,
+              "FC10DBA748240E08769A01ACAE9DCC6C" : 1,
+              "8812F7EF49311F2D875700B977E99FB9" : 1,
+              "0DC730A148FF2F00E129B9B95841A512" : 2,
+              "0C7EF37549C38E77572065961DB76B30" : 3,
+              "D121BFBA4989E0A7B43F6F9A7B3A050E" : 1,
+              "E4FC03A14A220941FF56ECADBDEC39AE" : 1,
+              "50558EA040438C481ACC59897D1B7AE4" : 4,
+              "BB55481B4A14EC0BBFB8DE82F9F025F2" : 1,
+              "1F6966064630918B49B01180C2145049" : 1,
+              "BF24E65A4436F4977A718FA6F59E0553" : 1,
+              "2842426641C079F8CD8AF3BA123AEEEF" : 1,
+              "9E2181B5405CC0D4B4AFAC99A4007686" : 1,
+              "2B377B5F49C8C2B631C1A3991EAF2B06" : 1,
+              "461F34C046269604EAC31481F34BC405" : 5,
+              "8F31211F416BEA21864670A0F8AF5F22" : 1,
+              "B288842B42932894C81176BF3C4EE3B1" : 7,
+              "63BE689248CAF1251C84B4B3574F90EF" : 1,
+              "932939E741CD4089DEB0C2B894916B7D" : 1,
+              "C7D011734D0211B27EBC6CA7E3AF38BE" : 1,
+              "82ADCC874CFC2D47927208BAE871CF2B" : 1,
+              "6EFAD8A54BBFAF4F24FA17BFCA8A879E" : 1,
+              "432F0FB24060D962C36D23A8870DDD01" : 1,
+              "508A8452419E9341FC6222A7A3C31A4A" : 1,
+              "0A6CB5B346A149F31A4C3FBDF4BBC198" : 3,
+              "E555E88942625148A7A70FA0447F9C95" : 1,
+              "2B6A49FF422F7583A3FBF4AB42BD30B2" : 1,
+              "B4F01FA74476B2203D8045865538551F" : 1,
+              "C39D31B34393C81EFB699FBA21BFA48F" : 1,
+              "F675B1A344084379DDE5C49271E39E7B" : 1,
+              "C3898B0D4961AEAC6A8CEDA77F279F67" : 1,
+              "C323689F44D1F2F078EF1C89F57F3545" : 1,
+              "73EBC6CE41D5BDB460059EB324D07A00" : 1,
+              "B5B37FF54715BB4A39B8D2A576E321CE" : 1,
+              "BCD871A24A224281E251D8B77E94B487" : 4,
+              "73E6EE6F4526EF97450D1592C3DB0EF5" : 1,
+              "7A973F444663B3A522172FAE32751346" : 1,
+              "2095E3E344FE72D5A55FFEBF653446A6" : 1,
+              "C3BA51C94631DB4DF95AE0848A5E5488" : 1,
+              "03E218974EBC90E9A89533813460C638" : 1,
+              "40ED8FD648E642F18113CFA6FF7EC82E" : 1,
+              "36E5025E444C5FCF1B98FDA20C3A75E9" : 1,
+              "12BDDBB6442151FD5D669B95634AB5B9" : 1,
+              "A7316394400DAC12901461AF234B9FDF" : 1,
+              "E559145D40EF691C3CA7F7A28756243A" : 1,
+              "9B506B7A4AEF74EC8DBCE78E5CE590CD" : 1,
+              "686358424EE2EEDC7ACF4195739511B1" : 1,
+              "FE6A2AE74CE6BF5E7BF7D6BB52E9F7ED" : 1,
+              "BA3DBAAB43E7411EDFA68D853F812354" : 4,
+              "AF1B7AC14A5F6A9ED255B88902120757" : 11
+            },
+            "refreshTimers" : {
+              "IOSAppStore" : { },
+              "EpicPurchasingService" : {
+                "nextEntitlementRefresh" : "2025-11-03T16:44:21.062Z"
+              },
+              "PlayStation5Store" : {
+                "nextEntitlementRefresh" : "2025-10-28T16:25:37.622Z"
+              },
+              "PlayStation4Store" : {
+                "nextEntitlementRefresh" : "2025-10-28T16:25:37.622Z"
+              },
+              "MicrosoftStore" : {
+                "nextEntitlementRefresh" : "2024-05-03T22:23:49.860Z"
+              }
+            },
+            "subscriptionEndActions" : [ ],
+            "ignoredReceipts" : [ ],
+            "version" : 10
+          },
+          "forced_intro_played" : "Coconut",
+          "rmt_purchase_history" : {
+            "purchases" : [ {
+              "fulfillmentId" : "0CABADDD430F604CCD8110BBDC23CC9A",
+              "purchaseDate" : "2025-04-02T15:53:05.563Z",
+              "lootResult" : [ {
+                "itemType" : "AthenaCharacter:character_fitvapor",
+                "quantity" : 1,
+                "itemGuid" : "56615b83-7a93-4d37-8f59-74c19a0ddaff",
+                "attributes" : { },
+                "itemProfile" : "athena"
+              }, {
+                "itemType" : "AthenaBackpack:backpack_fitvapor",
+                "quantity" : 1,
+                "itemGuid" : "45528745-9a52-4ea4-9e5b-d92ff4d3dd25",
+                "attributes" : { },
+                "itemProfile" : "athena"
+              }, {
+                "itemType" : "AthenaPickaxe:pickaxe_fitvapor",
+                "quantity" : 1,
+                "itemGuid" : "6c5508d4-dd3b-4edf-b681-45d961eb861d",
+                "attributes" : { },
+                "itemProfile" : "athena"
+              } ]
+            }, {
+              "fulfillmentId" : "2B6A49FF422F7583A3FBF4AB42BD30B2",
+              "purchaseDate" : "2025-05-01T19:20:04.410Z",
+              "lootResult" : [ {
+                "itemType" : "AthenaCharacter:character_kernelruse",
+                "quantity" : 1,
+                "itemGuid" : "f2bb79d1-2717-4cf4-a3a9-ff7e6c4f248d",
+                "attributes" : { },
+                "itemProfile" : "athena"
+              } ]
+            }, {
+              "fulfillmentId" : "F42084754CA2B6D5B418F69ED0594C3D",
+              "purchaseDate" : "2025-05-01T19:20:04.412Z",
+              "lootResult" : [ {
+                "itemType" : "AthenaCharacter:character_vitalinventorblock",
+                "quantity" : 1,
+                "itemGuid" : "35932211-1353-4081-9da0-366165cd4f94",
+                "attributes" : { },
+                "itemProfile" : "athena"
+              }, {
+                "itemType" : "AthenaBackpack:backpack_vitalinventorblock",
+                "quantity" : 1,
+                "itemGuid" : "242d0dfc-ed02-4822-9538-e07afcc9c89e",
+                "attributes" : { },
+                "itemProfile" : "athena"
+              }, {
+                "itemType" : "AthenaCharacter:cid_978_athena_commando_m_fancycandy",
+                "quantity" : 1,
+                "itemGuid" : "d9560265-5b61-43d2-9ee6-9ef9887bbd83",
+                "attributes" : { },
+                "itemProfile" : "athena"
+              } ]
+            } ]
+          },
+          "undo_timeout" : "min",
+          "allowed_to_send_gifts" : true,
+          "mfa_enabled" : true,
+          "locker_service_cosmetic_items_migration_status" : "LockerReadLockerWrite",
+          "allowed_to_receive_gifts" : true,
+          "mtx_affiliate_id" : "551fe7ac302b4df0b56227c667572387",
+          "gift_history" : {
+            "sentTo" : {
+              "52915d83f9624be28b82afd559f33ccb" : "2021-11-20T11:09:57.281Z",
+              "a9cd6304bb8f4369a125f7301e900411" : "2022-09-17T12:38:13.758Z",
+              "aaf1bc6048c3414e82a5cae399c78176" : "2023-09-16T22:53:25.943Z",
+              "43420be9141f468585c6e616e6d71b9b" : "2024-04-26T15:27:00.841Z",
+              "e22e8e8fbe7944ae886f9f775f79375c" : "2025-09-01T17:38:27.745Z",
+              "a924f289ed6a43a1998614c22fb16534" : "2022-10-31T17:24:30.056Z",
+              "f4d734bc45524526b022102b01754811" : "2023-04-09T10:58:26.499Z",
+              "baf6ddaa33874cdfa9a8eff092d18e5d" : "2025-01-11T19:02:45.726Z",
+              "f96710e0bfa2423ab01ce160faae68ed" : "2025-07-31T12:54:26.027Z",
+              "d8db813af77041e2af512f9300f4e6d6" : "2021-12-05T19:39:53.129Z",
+              "06f71fdc9cd84d98a66e34ec7e516fbc" : "2025-05-26T23:40:33.029Z",
+              "bbdc123c538c4fe7808c468f60c7ac1a" : "2021-12-05T19:39:23.797Z"
+            },
+            "receivedFrom" : {
+              "52915d83f9624be28b82afd559f33ccb" : "2023-11-25T12:59:14.867Z",
+              "a9cd6304bb8f4369a125f7301e900411" : "2021-07-21T08:07:50.037Z",
+              "aaf1bc6048c3414e82a5cae399c78176" : "2021-01-30T11:38:51.712Z",
+              "bbdc123c538c4fe7808c468f60c7ac1a" : "2023-04-02T18:58:54.906Z"
+            },
+            "num_sent" : 27,
+            "num_received" : 6,
+            "gifts" : [ {
+              "date" : "2025-09-01T17:38:27.745Z",
+              "offerId" : "v2:/7f00df99a073188a4517eae45772a425405fa27e8493a028105b3f6384e510bc",
+              "toAccountId" : "e22e8e8fbe7944ae886f9f775f79375c"
+            } ]
+          }
+        }
+      },
+      "commandRevision" : 5994,
+      "_id" : "3436e2e6cfc64ba3a727b03b4e9b6017",
+      "items" : {
+        "aaa43d73-d224-4875-9034-c731368a9e1d" : {
+          "templateId" : "HomebaseBannerIcon:brs29_liftingaura",
+          "attributes" : {
+            "creation_time" : "2024-04-23T18:08:14.915Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "02b788f5-dfad-4bd4-b801-edc61191d1c8" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor21",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "052c209c-0f30-4e2a-9c00-9f25554a1367" : {
+          "templateId" : "HomebaseBannerIcon:brs9violin",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "865e564b-0b71-45c1-ba24-69d722fe1cf9" : {
+          "templateId" : "HomebaseBannerIcon:brs9bone",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "948cecba-e6f2-4920-8d5b-a419a8e0d83e" : {
+          "templateId" : "HomebaseBannerIcon:brs19_winterfestcreative2022",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3f9ce2ad-b910-4668-a2da-dff6436daf1b" : {
+          "templateId" : "HomebaseBannerIcon:brs9plane",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "29d646d7-4ab8-4744-9549-d3f0d6b35532" : {
+          "templateId" : "HomebaseBannerIcon:brs14_hightowermango",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "e7f00ef7-161b-40ce-9164-58b00b748c41" : {
+          "templateId" : "HomebaseBannerIcon:brs15_shapeshifter",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "973d0084-88ce-4497-9601-29b2318d7d4f" : {
+          "templateId" : "HomebaseBannerIcon:brs11toxicmask",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "f990cab5-0de5-4353-ae26-d6f59d032b93" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "8fj2ukdm6ie43da8aeqva2lmv3[0]2"
+          },
+          "quantity" : 1
+        },
+        "145025d7-f7d4-47bf-9940-89caf088d876" : {
+          "templateId" : "HomebaseBannerIcon:brs26_iwd",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "9ef05285-9983-4903-a763-d25df4f6051c" : {
+          "templateId" : "HomebaseBannerIcon:brs34_casinoreaper",
+          "attributes" : {
+            "creation_time" : "2025-03-01T14:10:47.302Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "6b177117-7b62-410b-9919-78ba6a06f877" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner26",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0e08b11c-6fcd-46f8-9dd8-1f896ca5a126" : {
+          "templateId" : "HomebaseBannerIcon:brs22_bites",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "19c28787-5fee-4c2c-906d-e38954edd00d" : {
+          "templateId" : "HomebaseBannerIcon:brs28_undergroundrebel",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "e05a86e2-65ea-4ad4-aae1-cd910e5463fd" : {
+          "templateId" : "HomebaseBannerIcon:brs19_winterfestgingerbread",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "98e282cb-a2b8-4c7e-a0d3-8a5d59d6c9dd" : {
+          "templateId" : "HomebaseBannerIcon:brs25_zirconsweep",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3d764091-e74a-45e5-b7f3-5c430ba65c51" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor19",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "61675f55-4572-48b6-822a-1ac9aa5ef1fb" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner11",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "adc315e0-c681-4652-8c2d-0aeed9cb825a" : {
+          "templateId" : "HomebaseBannerIcon:brs17_faux",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "65f79b45-59f1-42ab-946a-1303e251305d" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor22",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "e80a8883-b2e8-407b-be1c-ea5f514b04b4" : {
+          "templateId" : "HomebaseBannerIcon:brs17_ruckusrun",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "477dba88-4510-4078-afb6-0b949d716fdf" : {
+          "templateId" : "HomebaseBannerIcon:brs15_spacefighter",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "759f5be2-beb5-4fd6-9140-d3cea191ac2c" : {
+          "templateId" : "HomebaseBannerIcon:brs9chair",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "147e18a3-9828-4c0d-877b-71811424b55d" : {
+          "templateId" : "HomebaseBannerIcon:brs15_lexa",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "c7644449-c617-4ac9-bfef-a1ebfe30d4f8" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "mrgvf190hq0c22frenke59nd72[0]2"
+          },
+          "quantity" : 1
+        },
+        "6f355e16-7408-4758-8a21-7c918928c483" : {
+          "templateId" : "HomebaseBannerIcon:brs24_dazzle",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "a90998b6-9121-461f-9f3d-4d67b986e9ae" : {
+          "templateId" : "HomebaseBannerIcon:brs7overtime",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "22d8997c-b85d-4ef8-83a2-4a12560961c8" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor42",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "17967ddb-7f7f-4f31-9828-35ea7d1f9201" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner21",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "a6e45cb4-b2eb-43ca-812a-4732bf6f4e1a" : {
+          "templateId" : "HomebaseBannerIcon:brs9cone",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "f29a5268-4418-4a69-8157-88ca8f18b12a" : {
+          "templateId" : "HomebaseBannerIcon:brseason07completionarcticsniper",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "88c0f923-0461-42ff-8cf6-7d84973cfde0" : {
+          "templateId" : "HomebaseBannerIcon:brs10techopsblue",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "5a693b5e-4163-460d-873b-ac5e8858f8e4" : {
+          "templateId" : "HomebaseBannerIcon:brseason07completionsgtwinter",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "85f487ba-cce9-4e7d-a808-9b7c5c8f6290" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner15",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "da5493aa-e169-454a-8b46-da77d2d6081c" : {
+          "templateId" : "HomebaseBannerIcon:storm",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0264f6ee-0a46-475b-b9d4-a21cf126f5a3" : {
+          "templateId" : "HomebaseBannerIcon:brs18_teriyakifishtoon",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0c1cb525-7b3b-4075-9855-7a2ee9311bf9" : {
+          "templateId" : "HomebaseBannerIcon:brs27_snowknight_helm1",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "c4104b42-94e9-4e10-a284-58e0b5f6fc6b" : {
+          "templateId" : "HomebaseBannerIcon:brs35_hydratrumpet",
+          "attributes" : {
+            "creation_time" : "2025-05-11T09:37:58.565Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "92547a8d-b90b-4a21-9156-4151b2c4c8c5" : {
+          "templateId" : "HomebaseBannerIcon:brs28_ceremonialguard",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "2f721def-ac38-45f0-8c7e-37a396f487d6" : {
+          "templateId" : "HomebaseBannerIcon:banner_spatialtravel",
+          "attributes" : {
+            "creation_time" : "2025-07-27T18:08:10.844Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "89fd891f-3e37-4c16-8907-4d742c96dbdb" : {
+          "templateId" : "HomebaseBannerIcon:brs26_pizzaparty",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "88cc929b-31b2-41e2-8ac4-5ea46771f98e" : {
+          "templateId" : "HomebaseBannerIcon:brseason07octopus",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "cd371ec0-aae4-4af1-9a11-fe43fbf0717c" : {
+          "templateId" : "HomebaseBannerIcon:brs16_dinohunter",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "e651e6b7-95c3-4184-b2af-e7ef81e77c8f" : {
+          "templateId" : "HomebaseBannerIcon:brs17_believerplanet",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "ea30bfd9-fdb0-47da-a5a2-69bc463a5a17" : {
+          "templateId" : "HomebaseBannerIcon:brs8completiondragonninja",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "b2c489f8-5642-497d-973f-aca0084905ec" : {
+          "templateId" : "HomebaseBannerIcon:brs8cumulativels2",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "411df95e-0b44-4de0-a7f4-aeb22beff3dc" : {
+          "templateId" : "HomebaseBannerIcon:brs14_hightowertapas",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4900ae7d-8f7b-499e-bcf7-f5a656f92ebc" : {
+          "templateId" : "HomebaseBannerIcon:brs21_pinkwidow",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "9b2fdd14-499f-4fda-9278-b9ef1c3d2a9a" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner14",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "9d731e26-0572-469d-8e40-69a15a69a753" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor38",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "26a89581-7251-41b5-9624-c67cafc507d1" : {
+          "templateId" : "HomebaseBannerIcon:brs16_temple",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "02fa25bd-20e1-455b-aea4-bd003cdcbc53" : {
+          "templateId" : "HomebaseBannerIcon:brs8ashtonchicago",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "9215ff69-29b3-4c60-8904-740ba48a964b" : {
+          "templateId" : "HomebaseBannerIcon:brs10dragonegg",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0bfe733d-653a-432d-8c12-abc8d1a6c914" : {
+          "templateId" : "HomebaseBannerIcon:brs19_lonewolf",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "642bee78-692e-4bc3-af87-d22b53c5460d" : {
+          "templateId" : "HomebaseBannerIcon:brs9spade",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "5916eea2-26af-439f-bff2-10a746aa14d5" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor7",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "bb511f40-3f37-4d26-a392-5bc8e7b18afe" : {
+          "templateId" : "HomebaseBannerIcon:brs15_cosmosa",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "372a5e00-2ada-472b-983b-1fbedcc27cc7" : {
+          "templateId" : "HomebaseBannerIcon:brs12_donut",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "fd0e0678-11b3-4ba1-af49-0a5fbf02f359" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner6",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "ca6bdf68-77a8-4c11-8c25-b99f7e59f6e0" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor12",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "eb5ba0fe-68fa-49da-a5a3-100ea8896ce4" : {
+          "templateId" : "HomebaseBannerIcon:brs17_antique",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "413f8cbb-acb5-4f1c-905c-d8aff31de98e" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "rj3lnje8noh60ljd69m0hddfkh[0]2"
+          },
+          "quantity" : 1
+        },
+        "f2b60a2d-5aec-48fc-a68d-86d08fbf7455" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor5",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "9d1d9754-adc8-4a11-8f4f-73ba7fc47f03" : {
+          "templateId" : "HomebaseBannerIcon:brs10medievalknight",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "112b9581-99b6-4a71-9f4a-e12bbab65ac1" : {
+          "templateId" : "HomebaseBannerIcon:brs18_cerealbox",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "2bfd3367-71c0-46d1-a6cf-08b90849a64e" : {
+          "templateId" : "HomebaseBannerIcon:brseason07completionneoncat",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "35f4b991-f824-47a3-a0ce-9749193d8091" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor28",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "98913054-698e-4137-9f16-d3a6c0d4ae29" : {
+          "templateId" : "HomebaseBannerIcon:brs12_prestige2",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0cb01fa5-14c8-42e4-bcab-6dd4d7d17515" : {
+          "templateId" : "HomebaseBannerIcon:brs35_ranked1",
+          "attributes" : {
+            "creation_time" : "2025-05-03T10:07:24.660Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "81d45f8f-a12b-4b98-b1dd-aeca85c10c21" : {
+          "templateId" : "HomebaseBannerIcon:brs33_helmut",
+          "attributes" : {
+            "creation_time" : "2024-12-03T18:25:27.020Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "dfa837fd-a2ea-415d-a334-e311d5527ff0" : {
+          "templateId" : "HomebaseBannerIcon:brs19_buffllama",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "531a1af9-60e0-4d78-b015-b7f498faf4b9" : {
+          "templateId" : "HomebaseBannerIcon:brs26_fortnitemares_quest",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "e697f7ed-9a2a-4cd3-b1e8-ebefbcd7b2e5" : {
+          "templateId" : "HomebaseBannerIcon:brs29_reptilianocean",
+          "attributes" : {
+            "creation_time" : "2024-05-03T16:00:29.974Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "e3fc1689-0e42-4513-8a7c-05cf371ff98a" : {
+          "templateId" : "HomebaseBannerIcon:brs8treasurechest",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "ad4c0604-1db2-4fb1-bc4c-8291b78e7274" : {
+          "templateId" : "HomebaseBannerIcon:brs33_polishedjade",
+          "attributes" : {
+            "creation_time" : "2025-01-02T14:07:25.464Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "9ebcc8ab-a2d0-48d7-a11d-74461b1efa42" : {
+          "templateId" : "HomebaseBannerIcon:brs8jellyfish",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "de831baa-e8ba-4b1d-955f-e8d644713d11" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "qt67tnpu64du7t33cnl05rigju[0]2"
+          },
+          "quantity" : 1
+        },
+        "6cc2c269-f70d-48de-a106-770b8cb0c5dc" : {
+          "templateId" : "HomebaseBannerIcon:brseason07completioniceking",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3e573c9b-10ec-4283-acc4-7aec9d1bbfe9" : {
+          "templateId" : "HomebaseBannerIcon:brs15_cosmosb",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "72e5c795-0386-41bb-ab6d-1a5a167fecf1" : {
+          "templateId" : "HomebaseBannerIcon:brs16_agentjonesy",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0aff8e0d-fcbe-42bb-a616-c3348d76d620" : {
+          "templateId" : "HomebaseBannerIcon:brs29_iceberg_w",
+          "attributes" : {
+            "creation_time" : "2024-04-13T18:34:29.343Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "52bf0c01-1b71-4867-bd5e-07ba4efc04c4" : {
+          "templateId" : "HomebaseBannerIcon:brs14_hightowergrape",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "39946934-a836-46b2-a9d2-e1e12eaf1d0f" : {
+          "templateId" : "Token:campaigntutorialcomplete",
+          "attributes" : {
+            "level" : 1
+          },
+          "quantity" : 1
+        },
+        "5f8fd33f-4c41-496b-88f6-e74ff99bc324" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor4",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4e0ce46c-7c78-4226-93e6-bd829a0808c7" : {
+          "templateId" : "HomebaseBannerIcon:galileob",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "8b64e23f-0943-4f35-9254-da1116578092" : {
+          "templateId" : "HomebaseBannerIcon:brs10blackmondayteaser",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "5612d1f0-d882-4246-abed-090688451808" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor34",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "e1ef5be0-5d47-45ca-b3e1-d3269fdcab08" : {
+          "templateId" : "HomebaseBannerIcon:brs17_emperor",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "ee6cd055-9a97-4169-8450-ff4591c47e95" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "7e8bs3ted848pt2jif2q2obmhq[0]0"
+          },
+          "quantity" : 1
+        },
+        "27c67370-d53b-4cbb-bc96-cac32344d46b" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner16",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "b5533da2-6eee-442e-8e3e-34afe4f89f6a" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner2",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "89a390c1-d2bd-465c-8206-7d503dd4c70c" : {
+          "templateId" : "HomebaseBannerIcon:brs19_blizzardbomber",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "92052307-f8f2-4225-a676-8e73f41ac0fd" : {
+          "templateId" : "HomebaseBannerIcon:brs33_sacredcuddle",
+          "attributes" : {
+            "creation_time" : "2025-02-15T16:28:45.972Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "d7376303-dad6-415f-908b-144d6daba0f0" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner7",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "200eaa77-4364-48ba-a3fd-82712708b1f8" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner4",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "7420e09c-48ac-47d9-b289-0238dcd35a36" : {
+          "templateId" : "HomebaseBannerIcon:brs12_cyclonea",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "f299210d-5290-455c-8b2e-01a50c9d703e" : {
+          "templateId" : "HomebaseBannerIcon:brs13_oceanrider",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "d90b431b-1b84-4ce2-ab77-ccfdcc75bf7e" : {
+          "templateId" : "HomebaseBannerIcon:brs9paintbrush",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "9bb161d9-6da3-498d-948b-d69ec06840d8" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner3",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "118a9e20-1168-4d52-8990-6b21ee1fe7e8" : {
+          "templateId" : "HomebaseBannerIcon:brs11_love",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "871234ea-2854-402f-9d0a-5b784296fac3" : {
+          "templateId" : "HomebaseBannerIcon:brs31_pillowmill",
+          "attributes" : {
+            "creation_time" : "2024-11-02T13:34:33.613Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3559b7ca-edd0-4235-a82c-636a9aedc0c4" : {
+          "templateId" : "HomebaseBannerIcon:banner_carbideweld",
+          "attributes" : {
+            "creation_time" : "2025-07-08T19:29:22.801Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "92b47bdf-212c-4eb0-af7c-a5a5f7691cdc" : {
+          "templateId" : "HomebaseBannerIcon:brs29_gatehound",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "32e7c36d-d3d1-4568-b29b-66324da6a32d" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor32",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "6e4d1bc4-4e9d-4d08-bab2-9a52d06e25af" : {
+          "templateId" : "HomebaseBannerIcon:brs34_sprocketpoppy",
+          "attributes" : {
+            "creation_time" : "2025-04-18T13:17:07.015Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "a7c31c49-9552-4e9b-bc07-c814ffbb0af3" : {
+          "templateId" : "HomebaseBannerIcon:brs22_badbear",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "d1c374fd-75cc-46d0-b971-7c34b1631f74" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor30",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "996ea00b-c158-4db6-935f-249fc1a55a45" : {
+          "templateId" : "HomebaseBannerIcon:brs33_figmentrushrustle",
+          "attributes" : {
+            "creation_time" : "2024-12-06T17:28:06.085Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "cd7e5065-b678-4de7-bb40-22b9d1272259" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor16",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "cf268041-dbf2-42d3-be71-529839db68d3" : {
+          "templateId" : "HomebaseBannerIcon:brs18_punkkoi",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3a4f1f18-e4b6-4cec-a37d-1f01655fcafe" : {
+          "templateId" : "HomebaseBannerIcon:brs12_prestige3",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "de0d2071-d913-4238-8c52-d2a1b8c74efe" : {
+          "templateId" : "HomebaseBannerIcon:brs12_bananaagent",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "12e0b548-eede-433b-8cc5-ca39dc9c2ee9" : {
+          "templateId" : "HomebaseBannerIcon:brs28_diamondheart",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "1799ee27-41ed-4796-b3e1-a98c605ed80c" : {
+          "templateId" : "HomebaseBannerIcon:brs33_ironlilac",
+          "attributes" : {
+            "creation_time" : "2024-12-10T19:35:53.106Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "a92cb438-f0c3-4487-b2e4-40f68a7b902f" : {
+          "templateId" : "HomebaseBannerIcon:brs12_cowboy",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "e4dedd5f-eed8-4d3b-a618-930750bb5727" : {
+          "templateId" : "HomebaseBannerIcon:brs13_blackknight",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "b1c7d4b8-a52d-4887-b883-f324e7e277c9" : {
+          "templateId" : "HomebaseBannerIcon:brs11eightball",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "c69ca001-a9e6-4173-b62c-bc97df8212ec" : {
+          "templateId" : "HomebaseBannerIcon:brs15_pspluspack2021",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3a2096e9-2b80-43ad-893d-5874b27b2977" : {
+          "templateId" : "HomebaseBannerIcon:brs32_ranked",
+          "attributes" : {
+            "creation_time" : "2024-11-03T17:15:47.185Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "6db4cd8f-2396-474d-b723-494cad037c08" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "nen4sg56m7mb6oba94hb44nr5a[1]2"
+          },
+          "quantity" : 1
+        },
+        "83dc23b2-af7f-4ebf-a488-b85eb478101e" : {
+          "templateId" : "HomebaseBannerIcon:brs8whaletail",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "e3b8692b-dece-4aef-9aca-e630394f232f" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner19",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "7c2336de-88c5-4694-9ef4-95b105de530b" : {
+          "templateId" : "HomebaseBannerIcon:brs27_snowknight_helm3",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0e0c9b59-6862-4886-9618-67bb93eef6a9" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor3",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0695d57b-ff46-46aa-9b6b-eb300a184041" : {
+          "templateId" : "HomebaseBannerIcon:brs34_bronzehat2",
+          "attributes" : {
+            "creation_time" : "2025-04-07T12:22:28.627Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "930765a1-e68c-43e2-930d-a4d28372f63a" : {
+          "templateId" : "HomebaseBannerIcon:brs32_ranked2",
+          "attributes" : {
+            "creation_time" : "2024-11-16T14:16:15.862Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "046a4d08-19eb-4ced-9a16-8747f61efaa8" : {
+          "templateId" : "HomebaseBannerIcon:brs8foxhead",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "ac4344fd-109a-4e58-910b-34b136631245" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "bk93gqid1rfgi1bsijrb84a425[0]2"
+          },
+          "quantity" : 1
+        },
+        "f68d60c0-07f5-4ca8-b2c1-c5fcc8da82d9" : {
+          "templateId" : "HomebaseBannerIcon:brs22_theherald",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "d9402ec6-3a22-45d4-8e9d-c5766c8cfa12" : {
+          "templateId" : "HomebaseBannerIcon:brs27_snowknight_helm4",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "32ad1737-7659-4258-a26f-1a02c55fb895" : {
+          "templateId" : "HomebaseBannerIcon:brs30_quickburst",
+          "attributes" : {
+            "creation_time" : "2024-06-23T20:19:00.000Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "6cdaf235-110b-4f16-86d9-bf20ba91390a" : {
+          "templateId" : "HomebaseBannerIcon:brs14_hightowersquash",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "84c4b27c-4c2c-453e-937d-b4de7d25bec8" : {
+          "templateId" : "HomebaseBannerIcon:brs29_iceberg_a",
+          "attributes" : {
+            "creation_time" : "2024-04-27T18:08:48.864Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "9f6d1f11-fa04-4b26-b7a9-6f68032e0e6a" : {
+          "templateId" : "HomebaseBannerIcon:brseason07wreath",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "e139d920-40a5-43c4-8ca2-1658a79f4d3f" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner9",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "ad3604cf-88e0-4d50-ab6a-362c4788fc05" : {
+          "templateId" : "HomebaseBannerIcon:brs27_snowknight_helm5",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4b9b664d-21b3-4863-b458-314ebed735cf" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor37",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "30fc4a44-4f20-4f5a-af2c-0e8555b5eb09" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor13",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4c98090a-0e84-402d-a3d1-fc3eae49c5df" : {
+          "templateId" : "HomebaseBannerIcon:brs16_obsidian",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "a0c840c3-6308-4cd1-93b6-6dec8abafaaf" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner8",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "7b20aff1-218c-4cbb-876c-3d95714f494e" : {
+          "templateId" : "HomebaseBannerIcon:brs11treesymbol",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "6d57601c-76e2-4b61-b450-da6894f56be1" : {
+          "templateId" : "HomebaseBannerIcon:brseason07plane",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "ddbba222-b1dc-48b0-b96d-ea2228a4bf1c" : {
+          "templateId" : "HomebaseBannerIcon:brs15_flapjackwrangler",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "fd2c1cd7-c3e2-4c0e-ab6d-f00122a55fe0" : {
+          "templateId" : "HomebaseBannerIcon:brs12_prestige1",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "e0d0ce5b-6fbc-4ab5-b829-fff12eb1715f" : {
+          "templateId" : "HomebaseBannerIcon:brs23_snowsoldierfashion",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "04e4a1cd-9f53-42f4-beca-b2c5aa944f7d" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor29",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "19832114-297a-45d8-8f14-d9c48ae01eb1" : {
+          "templateId" : "HomebaseBannerIcon:brs29_darkstance",
+          "attributes" : {
+            "creation_time" : "2024-05-04T21:37:32.485Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "c038209d-1061-4bb6-a5d4-36f50aac6580" : {
+          "templateId" : "HomebaseBannerIcon:brseason07iceninjastar",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4359e829-6bea-4923-ac06-9c15914bf42b" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "kq4phqbvndrkh8rmj824ukavqj[0]2"
+          },
+          "quantity" : 1
+        },
+        "6115ad18-f6ac-4e8a-96a2-fde5a892b1f8" : {
+          "templateId" : "HomebaseBannerIcon:brs14_hightowerradish",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "dfb7a6f3-5918-48e3-9e6b-a07585866744" : {
+          "templateId" : "HomebaseBannerIcon:brs25_fortnitestories_slurp",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "39b550dd-56ff-4c36-86ef-8b4ff713f273" : {
+          "templateId" : "Currency:MtxGiveaway",
+          "attributes" : {
+            "platform" : "Shared"
+          },
+          "quantity" : 10000000000
+        },
+        "db2511b4-21f4-4158-8885-a6bc7f847808" : {
+          "templateId" : "HomebaseBannerIcon:brs8jollyroger",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "256f7a6c-9468-439b-a7a1-c2631f886c2d" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "2ksnoq2i5ggkjs7f8clf6lpv43[0]2"
+          },
+          "quantity" : 1
+        },
+        "980f09c8-e9c0-4949-94b4-1d11ad38b148" : {
+          "templateId" : "HomebaseBannerIcon:brs18_ghosthunter",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "c9283e82-f460-491f-b88c-f352bdf22248" : {
+          "templateId" : "HomebaseBannerIcon:brs8crystalllama",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "24b6b6f6-ea11-4049-b4ba-0fd11dcc847b" : {
+          "templateId" : "HomebaseBannerIcon:brs12_skull",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "69340605-1edb-4c01-8268-22c331718c17" : {
+          "templateId" : "HomebaseBannerIcon:brs21_fuchsia",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "065befdf-fe90-4ffb-bcd7-ef0ecb3b0bca" : {
+          "templateId" : "HomebaseBannerIcon:brs12_roses",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "aa7cd20a-49d1-49c7-b581-57982c7f7233" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "1gr2esknpg25vf49mh1lks0cnp[0]2"
+          },
+          "quantity" : 1
+        },
+        "54cd895e-b410-4513-a919-1884bbd8fe49" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor2",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "b232ee75-f2ae-4a3b-9cfd-aeefa5e08db8" : {
+          "templateId" : "HomebaseBannerIcon:brs11xmassweaterb",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "74a2b716-94a7-43c5-99a3-5d6695c4691b" : {
+          "templateId" : "HomebaseBannerIcon:brs13_racer-zero",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "f758f00a-92ac-4a35-83b2-12926c7c45ab" : {
+          "templateId" : "HomebaseBannerIcon:brs12_kitty",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4a2c6ce4-d661-4bf9-9f94-6e1fb0e120e5" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor10",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "cd81983a-2549-4e2c-851f-56af5c0b1f6a" : {
+          "templateId" : "HomebaseBannerIcon:banner_wealthlamb",
+          "attributes" : {
+            "creation_time" : "2025-07-19T14:21:24.686Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "7af24b01-5db8-4413-bdf5-7a065f2963c6" : {
+          "templateId" : "HomebaseBannerIcon:brs26_indiebucket",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0e7a088b-7cbe-450d-b176-e805862b3d75" : {
+          "templateId" : "HomebaseBannerIcon:brs27_rebelclaw",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "7b9ab3da-d095-4121-929b-54ec2c5b3492" : {
+          "templateId" : "HomebaseBannerIcon:brs18_spacechimp",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "5ae68ac1-adec-406e-986a-0ca084e6342e" : {
+          "templateId" : "HomebaseBannerIcon:brs31_anglepatch",
+          "attributes" : {
+            "creation_time" : "2024-09-25T20:53:46.945Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3d68bd7c-8042-4714-9572-9a643e9a76df" : {
+          "templateId" : "HomebaseBannerIcon:brs26_smarthyena",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "57cb5f81-f1f9-49f9-8444-c38f93008870" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner29",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "13ad5e91-d85a-455b-bdcf-e874133bde00" : {
+          "templateId" : "HomebaseBannerIcon:banner_talonpane",
+          "attributes" : {
+            "creation_time" : "2025-09-02T12:58:49.471Z",
+            "level" : 1
+          },
+          "quantity" : 1
+        },
+        "47939f39-52af-442a-89f6-ae9ec43d1b98" : {
+          "templateId" : "HomebaseBannerIcon:brs28_madamemoth",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "adccb390-7b9f-4237-85c4-b838e03aba63" : {
+          "templateId" : "HomebaseBannerIcon:brs28_abstractmirror",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "909b7e16-20de-4841-a856-cdf8fe42c3e6" : {
+          "templateId" : "HomebaseBannerIcon:brs22_meteorwomen",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "33117c4a-a13d-454b-bdbf-f60126ec8bdc" : {
+          "templateId" : "HomebaseBannerIcon:brs10westernhats",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0e361f9e-8408-4823-892b-6edf32e186f7" : {
+          "templateId" : "HomebaseBannerIcon:brs13_yonezu",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "267cadc2-b49f-4019-9dfc-292b91adb9d8" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner20",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "9a84e456-3e24-4f93-9a4a-d35f8b150e40" : {
+          "templateId" : "HomebaseBannerIcon:brs10astronaut",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "283bb61b-180e-4b2d-bb84-6c4af11b702a" : {
+          "templateId" : "HomebaseBannerIcon:brs19_parallel",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "cfccd3e0-e569-4067-8d8a-1b0dd326951f" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner23",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "8610554d-1026-448c-bbcf-15a55b0d46e0" : {
+          "templateId" : "HomebaseBannerIcon:brs19_parallelsymbol",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "2199f7e1-8f85-4745-988d-0f53a839aea3" : {
+          "templateId" : "HomebaseBannerIcon:brs9blast",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "07c5e26a-75fe-4ead-85d2-8019161eaafc" : {
+          "templateId" : "HomebaseBannerIcon:brs11_war",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "961f2b79-c07f-4014-94fb-bc5762c2d3f1" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor35",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "8e2401c0-728d-40e3-9b35-7efc30448d4a" : {
+          "templateId" : "HomebaseBannerIcon:brs11toadstool",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "d9414a98-bbd0-41bf-b352-6b09cd14f510" : {
+          "templateId" : "HomebaseBannerIcon:brs29_iceberg_e",
+          "attributes" : {
+            "creation_time" : "2024-04-22T20:06:32.684Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "6ded86cb-f1d1-4b14-b3d1-69319a96b3ae" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor31",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "34d52baf-f14f-450e-b973-8bdfe61a41d0" : {
+          "templateId" : "HomebaseBannerIcon:brs10kevincube",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "561735fd-ef49-4806-a108-3ad2b43ee832" : {
+          "templateId" : "HomebaseBannerIcon:brs9x",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "6c696669-6881-49c0-abbb-123de31835a9" : {
+          "templateId" : "HomebaseBannerIcon:brs20_mystic",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "6e8b6da5-6c05-44b4-a7a4-c0d7de2d97b8" : {
+          "templateId" : "HomebaseBannerIcon:brs25_rippedharvester",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "8588a3f4-fd3e-4219-aa27-a27e03e21bc3" : {
+          "templateId" : "HomebaseBannerIcon:brs34_bronzehat",
+          "attributes" : {
+            "creation_time" : "2025-03-23T14:54:22.651Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "53b1c6d4-9b6a-4aa0-89d7-76ec585ffa30" : {
+          "templateId" : "HomebaseBannerIcon:brs19_winterfest2021",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "d6f6fa46-ae89-4605-a89e-ffe2d4d17ec7" : {
+          "templateId" : "HomebaseBannerIcon:brs15_futuresamurai",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "669205af-d38a-43d7-b445-a7fb734425fd" : {
+          "templateId" : "HomebaseBannerIcon:brseason07tartan",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4cde68a7-96bd-41ba-a5c9-045973efed9c" : {
+          "templateId" : "HomebaseBannerIcon:banner_claimreflect",
+          "attributes" : {
+            "creation_time" : "2025-08-10T17:44:07.783Z",
+            "level" : 1
+          },
+          "quantity" : 1
+        },
+        "ef99709c-9b10-4570-9e42-eab7737bdebe" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "1qgkrvm76bvqetpsor07i13sip[0]2"
+          },
+          "quantity" : 1
+        },
+        "db6b8f48-733b-441c-a460-3ccc993621f4" : {
+          "templateId" : "HomebaseBannerIcon:brs10blackmonday",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "39995045-b6a4-46b8-844b-a180666aac28" : {
+          "templateId" : "HomebaseBannerIcon:brs15_nightmare",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "df3bb28c-9ba5-453d-bd5c-f7b60227c80b" : {
+          "templateId" : "HomebaseBannerIcon:brs33_mistmylar",
+          "attributes" : {
+            "creation_time" : "2024-12-13T20:29:46.425Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "69b4a8b5-0887-4e60-a9c5-d4317af40209" : {
+          "templateId" : "HomebaseBannerIcon:brseason07infinityblade",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "b84261eb-7fbc-4697-af25-b79ebe3f2090" : {
+          "templateId" : "HomebaseBannerIcon:brs27_snowknight_helm2",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "affc1267-1327-498a-ac5c-bab84a6c9e2c" : {
+          "templateId" : "HomebaseBannerIcon:brs14_hightowerhoneydew",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "f02a9256-4000-440a-93fa-3238855281c2" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner30",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "07362526-fcc8-43bf-81b2-a0a1fb9192ee" : {
+          "templateId" : "Token:campaignaccess",
+          "attributes" : {
+            "level" : 1
+          },
+          "quantity" : 1
+        },
+        "6a0d38d0-27c4-4b3a-b185-d387365a4d76" : {
+          "templateId" : "HomebaseBannerIcon:brs11fishhook",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "c1445efd-38fc-49ab-9757-45f5f516ae0a" : {
+          "templateId" : "HomebaseBannerIcon:brseason07sun",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "29db3bba-70d2-4765-98f8-813fe13652ff" : {
+          "templateId" : "HomebaseBannerIcon:brs25_eventemblem",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "42b15080-d29f-43cd-9969-0ab8bbe6b81c" : {
+          "templateId" : "HomebaseBannerIcon:brs13_professorpup",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "5114a902-b4cc-469a-92fa-61a060ded45d" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor11",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "2d3ea868-8ab2-4c0a-a451-632cc756411c" : {
+          "templateId" : "HomebaseBannerIcon:brs16_bicycle",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "dc53bacc-94c5-4a8b-844e-c825dfff8b37" : {
+          "templateId" : "HomebaseBannerIcon:brs10britebomber",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "7d07454e-eccb-4f9c-8ab6-f6083f6fd441" : {
+          "templateId" : "HomebaseBannerIcon:brs11diamondshapes",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3b996f4d-94f7-44eb-a869-8db63656a6ad" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner18",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "a32fe13e-3632-489e-b9fb-9cba2c8b5b4c" : {
+          "templateId" : "HomebaseBannerIcon:banner_s37_ranked2",
+          "attributes" : {
+            "creation_time" : "2025-09-02T17:15:15.563Z",
+            "level" : 1
+          },
+          "quantity" : 1
+        },
+        "decf1786-1c30-4713-a609-d8bcac936f66" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner28",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "1910e788-4202-4d93-88ff-56a44579759f" : {
+          "templateId" : "HomebaseBannerIcon:brs26_lazaruslens",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "ea37f2ff-5cae-4448-9ea6-74f42c436fc6" : {
+          "templateId" : "HomebaseBannerIcon:brs13_sandcastle",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "fd254d87-a388-4ef2-abda-7aacd22d611f" : {
+          "templateId" : "HomebaseBannerIcon:brs17_believer",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "d83d424d-8ef2-4c1f-9ad1-4008c15df81b" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor27",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "6c17aa13-38ac-4139-8d03-9f66dbafacf8" : {
+          "templateId" : "HomebaseBannerIcon:banner_squidglisten",
+          "attributes" : {
+            "creation_time" : "2025-07-08T19:29:22.785Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "425739c1-62e9-4d90-a8f3-63204281b732" : {
+          "templateId" : "HomebaseBannerIcon:brs12_grenade",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "86b911c9-e41f-444a-83e6-e5ff21e5fdf1" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "hc4hs9a2pclck1qaaof87lebfl[0]2"
+          },
+          "quantity" : 1
+        },
+        "5c63873b-3af8-4fe8-a0c9-d3f3c35659bc" : {
+          "templateId" : "HomebaseBannerIcon:brs14_hightowertomato",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4c3a111d-4c44-4a58-8cd0-4e5edd837493" : {
+          "templateId" : "HomebaseBannerIcon:brs8coconuts",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "97fe8e64-bbbd-43a3-bdde-224b4fab8c03" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "nen4sg56m7mb6oba94hb44nr5a[0]2"
+          },
+          "quantity" : 1
+        },
+        "63c18a0d-4497-4bc2-b27b-195455fa0106" : {
+          "templateId" : "HomebaseBannerIcon:brs8completionshiny",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "63b5c558-df25-49d3-bc59-463dfc8e883c" : {
+          "templateId" : "HomebaseBannerIcon:brs34_sherwolf",
+          "attributes" : {
+            "creation_time" : "2025-03-23T15:33:00.047Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "fa993963-690e-41f3-96e9-a918beb23b11" : {
+          "templateId" : "HomebaseBannerIcon:brs9target",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "8c11fdb4-6545-4ab0-8b20-f67e3645bbfd" : {
+          "templateId" : "HomebaseBannerIcon:brs17_ruckusface",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "5c8d2046-f90b-473f-95ba-512afb0cf47e" : {
+          "templateId" : "HomebaseBannerIcon:brs25_fortnitestories_slap",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "30516c36-f591-4afc-87f7-1c71440ebbed" : {
+          "templateId" : "HomebaseBannerIcon:brs10doublepump",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "1aa3e80c-5841-48d7-8c3b-258b40f904ff" : {
+          "templateId" : "HomebaseBannerIcon:brs29_tideking",
+          "attributes" : {
+            "creation_time" : "2024-04-28T17:22:15.139Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "c0dc6f34-e365-488b-8f18-a1a0575c25b8" : {
+          "templateId" : "HomebaseBannerIcon:brs19_gumball",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "339197cf-cb6c-442c-a5b3-8b0238dec55a" : {
+          "templateId" : "HomebaseBannerIcon:brs20_cubeking",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "95ffd6af-001b-408d-b47b-4f31d77089e6" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor15",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "72a49c60-f043-45f3-96ab-835bba6cb267" : {
+          "templateId" : "HomebaseBannerIcon:brs22_chillcat_face",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "948af4f2-8414-485f-b56f-9cdf67e4f5b3" : {
+          "templateId" : "HomebaseBannerIcon:galileoc",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "2eb4c66f-4713-4555-9ee5-f8cc418e2893" : {
+          "templateId" : "Token:rocketpass",
+          "attributes" : {
+            "level" : 1
+          },
+          "quantity" : 3
+        },
+        "9a2f1d6c-e6c5-4713-9917-bcbbb6e5929f" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "9nvs1ou02nrjpv5btalv2srp7c[0]2"
+          },
+          "quantity" : 1
+        },
+        "e756cf1c-62ea-40a0-9f7b-2f84a7e91c8a" : {
+          "templateId" : "HomebaseBannerIcon:brskirmishriftraiders",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4046992f-d77e-4736-9d81-77f2cd11ef1d" : {
+          "templateId" : "HomebaseBannerIcon:brs22_pinkspike",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "a222ca01-543e-4203-9b9a-2ee9689e7bb8" : {
+          "templateId" : "HomebaseBannerIcon:brs29_plantstand",
+          "attributes" : {
+            "creation_time" : "2024-05-07T17:19:34.554Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "b848ba46-e245-4bbc-a505-47579bcddd3c" : {
+          "templateId" : "HomebaseBannerIcon:brs33_cubicvice",
+          "attributes" : {
+            "creation_time" : "2024-12-08T15:47:13.023Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "aa824c91-d753-459c-a721-b196842bf243" : {
+          "templateId" : "HomebaseBannerIcon:brs9roar",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "c004782e-18e0-49fe-ba8d-1c662d8c9c6a" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner12",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "bb5008cb-80d3-4b10-b932-65b648358b5c" : {
+          "templateId" : "HomebaseBannerIcon:brs16_cubeninja",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "300b4b8f-3c89-4378-aabe-dd8b55c2d1fd" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor1",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "775e3042-a640-431f-966c-e48424959364" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor23",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "67a9b583-5753-49a6-b66f-272c2d9603ef" : {
+          "templateId" : "HomebaseBannerIcon:brs26_brawnybass",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "d3353f13-d704-4117-9ff4-78676994c87c" : {
+          "templateId" : "HomebaseBannerIcon:brs8tigerstripes",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "130196b6-0285-4e5d-a4b5-2c2eb20f4c9c" : {
+          "templateId" : "HomebaseBannerIcon:brs13_tacticalscuba",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "c796ceef-2a56-430a-bc9b-22aaaae1c5ca" : {
+          "templateId" : "HomebaseBannerIcon:banner_juno",
+          "attributes" : {
+            "creation_time" : "2025-07-08T19:29:22.770Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "708de156-42d0-4bf7-9627-d9a1cf442047" : {
+          "templateId" : "HomebaseBannerIcon:brs11_prestige1",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "02d2ad23-86c4-41c1-b212-7db4189ec27b" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "00doaskr45l28gvgs2ljbpv6fp_R20191021[0]315"
+          },
+          "quantity" : 1
+        },
+        "12057d44-e876-4d19-bb4f-e3786ea4a9d9" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor24",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0a47b332-e5df-45ac-a233-0aa6b78406e8" : {
+          "templateId" : "HomebaseBannerIcon:brs33_rosedepth",
+          "attributes" : {
+            "creation_time" : "2024-12-24T18:19:21.132Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "2eeb6799-8b2e-4da2-b569-31ff6a7c175a" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner24",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "9b4018f8-0b8a-4b5d-81f7-3233cf7f1647" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor36",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "aed1d0f6-5a59-4073-9a9f-dd0b53f3ca66" : {
+          "templateId" : "HomebaseBannerIcon:brs9completionstrawberry",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "f20c47c5-488e-4443-ad47-022399cda350" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner10",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "057600d8-6f1e-4903-95a6-0acd38fc607a" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor9",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "d2b5c98d-6313-441c-b9ef-7721f4f11127" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor17",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0a94f810-94ad-4bf9-9d52-337448dc4787" : {
+          "templateId" : "HomebaseBannerIcon:brs26_scorpionzero",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "992433cc-d992-4074-82b8-c13b779eb9a6" : {
+          "templateId" : "HomebaseBannerIcon:brs29_iceberg_f",
+          "attributes" : {
+            "creation_time" : "2024-04-27T10:07:55.317Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "812019d4-ccb6-4563-9900-c2bf28f27d3f" : {
+          "templateId" : "HomebaseBannerIcon:brseason07meat",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "cdface0e-2130-42fc-80ff-66796d3b8245" : {
+          "templateId" : "HomebaseBannerIcon:brskirmishfortknights",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "901fcd34-0e84-4000-b625-dfc7f03cc51a" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner17",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "bb4e5255-2ddb-46ba-9237-3b921c876b1a" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner5",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3e0e342c-f581-4bc9-a4e4-02564688ecde" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor33",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "7fed0b37-d69a-403b-8ce5-244872b5619a" : {
+          "templateId" : "HomebaseBannerIcon:brs13_mechanicalengineer",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3fc791c1-f4bc-46cc-bbac-63b3a76247fc" : {
+          "templateId" : "HomebaseBannerIcon:brs16_chickenwarrior",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "82aac4c7-8fda-4e83-9613-84e5c2ecaadc" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner1",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "1b7f8012-6c14-467a-a0ee-925590d1ec89" : {
+          "templateId" : "HomebaseBannerIcon:banner_juno3",
+          "attributes" : {
+            "creation_time" : "2025-07-19T14:21:24.175Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "6afb01ff-df7d-467c-8e23-5ce9b3384a52" : {
+          "templateId" : "HomebaseBannerIcon:brs17_innovator",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "7bc9d536-16db-467f-95bd-82b8a6d4ec4b" : {
+          "templateId" : "HomebaseBannerIcon:brs10grid",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "198ac257-982a-4891-bfa7-7238271ae25a" : {
+          "templateId" : "HomebaseBannerIcon:brs12_midas",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "5e1bc6b2-bb33-4b03-bda2-a28c9f0753e7" : {
+          "templateId" : "HomebaseBannerIcon:brseason07shackle",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0ce36794-130a-4db6-9142-009260427906" : {
+          "templateId" : "HomebaseBannerIcon:brs11pawmark",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "10ac0e40-40e9-4eba-8559-ba8d1b1e89db" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor43",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3117be4a-ff50-434e-8dae-99d67337b9fb" : {
+          "templateId" : "HomebaseBannerIcon:brs14_hightowerdate",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "a0884ed7-c023-4d1f-ba3b-518a1e4c1f79" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner31",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "ffedc6cc-5bfd-46c5-9621-187dcab4fabe" : {
+          "templateId" : "HomebaseBannerIcon:brs11_prestige2",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "d50d0bed-a3fd-462c-972c-29ba9a08d094" : {
+          "templateId" : "HomebaseBannerIcon:brs26_musketslinger",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "43597d3f-4651-44b1-9b9c-fac786105b9e" : {
+          "templateId" : "HomebaseBannerIcon:banner_s37_ranked",
+          "attributes" : {
+            "creation_time" : "2025-09-02T11:24:46.245Z",
+            "level" : 1
+          },
+          "quantity" : 1
+        },
+        "e2c9dfa7-fb9a-41a1-9d5f-29ddd9490ba1" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "a359ogsc2egfl1iusghsl6grhg[0]2"
+          },
+          "quantity" : 1
+        },
+        "1a9c6aeb-999e-4478-b6de-7076e20ab09e" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor18",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "32d7bbcf-e909-40b7-9412-25b3a2f86461" : {
+          "templateId" : "HomebaseBannerIcon:brs10rift",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "dae6ea10-6771-4ba7-800d-d6ccb3ef90a0" : {
+          "templateId" : "HomebaseBannerIcon:brs15_cosmosc",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "c42eb95c-657f-4cdd-a104-395a13a318cc" : {
+          "templateId" : "HomebaseBannerIcon:brs33_stormchasers",
+          "attributes" : {
+            "creation_time" : "2024-12-27T16:27:45.664Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "949c4cf1-4ce3-43e4-a466-14dd3f03c1c2" : {
+          "templateId" : "HomebaseBannerIcon:brs16_alt_2",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "166bb22c-a1ca-45f2-8c9e-0eb2268999fe" : {
+          "templateId" : "HomebaseBannerIcon:brs17_alientrooper",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0f5a6cbf-77c2-411d-9cbf-047686b26500" : {
+          "templateId" : "HomebaseBannerIcon:brskirmishbushbandits",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "d68aabbf-4670-451b-9efb-a4b67ccf5c70" : {
+          "templateId" : "HomebaseBannerIcon:brs14_hightowerwasabi",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "04496c71-505a-4d50-9e9a-e76ca70906c4" : {
+          "templateId" : "HomebaseBannerIcon:brs28_ranked",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "2ff88ab6-a453-49d2-b187-787432898e59" : {
+          "templateId" : "HomebaseBannerIcon:brseason07trash",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "607516fb-9667-4c13-81dd-fe1e273d07eb" : {
+          "templateId" : "HomebaseBannerIcon:brs19_islandnomad",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "68784419-ecac-4d10-8178-3c9b2af6d496" : {
+          "templateId" : "HomebaseBannerIcon:brs28_zebrascramble",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "951fd4c4-8b41-4948-adc5-71ef28430589" : {
+          "templateId" : "HomebaseBannerIcon:brs20_binary",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4df9b7d0-e7fd-462c-994e-3b97c823be73" : {
+          "templateId" : "HomebaseBannerIcon:brs11waterwaves",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "bbca8c01-952c-430d-b9b5-fda31f90cb3f" : {
+          "templateId" : "HomebaseBannerIcon:brs17_invader",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "407cdd35-6e40-43fd-a8e9-028ef0481a1a" : {
+          "templateId" : "HomebaseBannerIcon:brs1080sllama",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4a30aa2b-11d3-4510-a60b-8a50b40a2c1d" : {
+          "templateId" : "HomebaseBannerIcon:brs33_stormking",
+          "attributes" : {
+            "creation_time" : "2024-12-27T16:27:45.673Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "835d8f85-3cdf-4b30-87cc-12080833031c" : {
+          "templateId" : "HomebaseBannerIcon:brseason07merryface",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "64435d66-2b0e-4936-b890-f507595085de" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "cg50vsi019fmgv7u29chjl9a6p[0]2"
+          },
+          "quantity" : 1
+        },
+        "406ca174-de7c-4e87-975a-62c6eb413ec2" : {
+          "templateId" : "HomebaseBannerIcon:brs10shades",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "dae25e7b-4411-4402-9653-114f49136950" : {
+          "templateId" : "HomebaseBannerIcon:brs8pineapple",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "43cfbd34-f70b-464d-84f9-d5531ca14778" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor8",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "cf99372c-09cb-40de-8c81-87188d2bae82" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor6",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "37f3f79c-4734-4610-a2d9-b4fd3c2628a1" : {
+          "templateId" : "HomebaseBannerIcon:brs28_engagement",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "c865e40c-c7d7-44de-a73c-3d4dc739f7b9" : {
+          "templateId" : "HomebaseBannerIcon:brs9bacon",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "0b929c2c-70ac-408a-8bba-e9318edc0d44" : {
+          "templateId" : "HomebaseBannerIcon:brs20_cadetcat",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "82a26771-864c-4d73-a72e-4c15ce60edb6" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor41",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "b1b09248-0cd9-4855-bc90-0d51828c7de8" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor25",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "8c7c9da7-a1e2-4638-9a2b-20d9e7780b50" : {
+          "templateId" : "HomebaseBannerIcon:brs34_ranked",
+          "attributes" : {
+            "creation_time" : "2025-03-23T15:52:28.280Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "f64ca2b9-1ccb-46f3-967a-4456c21f20e8" : {
+          "templateId" : "HomebaseBannerIcon:brs15_ancientgladiator",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3702eebb-f485-4ec9-a040-2135ea2f48eb" : {
+          "templateId" : "HomebaseBannerIcon:brs33_figmentethicalnoggin",
+          "attributes" : {
+            "creation_time" : "2024-12-13T20:29:46.314Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "cd735477-f41f-459a-84b0-6acb36441af2" : {
+          "templateId" : "HomebaseBannerIcon:brs8ziggurat",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "f2f5a1d3-5aae-4f6b-a1ca-ba92f42beca7" : {
+          "templateId" : "HomebaseBannerIcon:brskirmishdustydogs",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "6b0e737a-eace-4323-9fe1-b281f96959ca" : {
+          "templateId" : "HomebaseBannerIcon:brs8roach",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "64911925-9a2d-4592-bbe8-26887ceb1232" : {
+          "templateId" : "HomebaseBannerIcon:brs11sockmonkey",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4e95fb49-ad88-4a4e-8d9a-c56425213236" : {
+          "templateId" : "HomebaseBannerIcon:brs20_cyberarmor",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "1a6e457b-de5a-473e-98df-8e7521b412a6" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor44",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "e692f72d-97fb-4498-8ef6-ff81a90deb69" : {
+          "templateId" : "HomebaseBannerIcon:banner_clumsychew",
+          "attributes" : {
+            "creation_time" : "2025-08-31T15:41:04.539Z",
+            "level" : 1
+          },
+          "quantity" : 1
+        },
+        "7d0a428d-cabe-4081-90a7-0a44c854a522" : {
+          "templateId" : "HomebaseBannerIcon:brs28_bengalbasher",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "d08d2dfc-058a-45ec-9492-76b16a80efc6" : {
+          "templateId" : "HomebaseBannerIcon:brs33_figmentstormaviator",
+          "attributes" : {
+            "creation_time" : "2024-12-08T16:40:36.456Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "eb14e2d6-c245-41a9-a065-b280a03e52ec" : {
+          "templateId" : "HomebaseBannerIcon:brs13_spacewanderer",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "7566e4f7-2c25-48df-8bd4-a55b067b769b" : {
+          "templateId" : "HomebaseBannerIcon:brs34_auracop",
+          "attributes" : {
+            "creation_time" : "2025-03-26T17:27:51.255Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "ddfa9f31-4871-4b55-a743-f21969c74e02" : {
+          "templateId" : "HomebaseBannerIcon:brs34_ranked2",
+          "attributes" : {
+            "creation_time" : "2025-04-07T12:51:32.715Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "6a196d00-5f8f-41e4-9719-ee921b3d2618" : {
+          "templateId" : "HomebaseBannerIcon:brs23_apprentice",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "4d0015fd-c0d9-40db-993e-a8e88e663852" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner25",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3e7ed537-cf17-4352-950c-01c6911dfc68" : {
+          "templateId" : "HomebaseBannerIcon:brs22_rosedust",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "ef244198-b16c-4570-b747-b157d8803a2a" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor14",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "1c878aae-762b-4630-be04-dcb2d84ececc" : {
+          "templateId" : "HomebaseBannerIcon:brs22_candor",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "ebd79d17-8cac-45a2-929e-f02ca4edcbe2" : {
+          "templateId" : "HomebaseBannerIcon:brs10boombox",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "1df326b2-203a-4487-bde5-931be84b86a2" : {
+          "templateId" : "HomebaseBannerIcon:brs34_medicrow",
+          "attributes" : {
+            "creation_time" : "2025-04-08T17:52:02.589Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "56138e44-6f44-4fb2-8a04-da7f30b1e007" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor26",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "c1566ec3-7851-4b8f-bcd1-1683036ac776" : {
+          "templateId" : "HomebaseBannerIcon:brs33_sprout",
+          "attributes" : {
+            "creation_time" : "2024-12-27T16:27:45.679Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "64333706-f728-4719-9c8d-f80df6597eec" : {
+          "templateId" : "HomebaseBannerIcon:banner_lazylizz",
+          "attributes" : {
+            "creation_time" : "2025-07-17T20:42:41.709Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "297bd063-46bb-42ad-8cad-bb1bfd02cd21" : {
+          "templateId" : "HomebaseBannerIcon:brs28_voidredemption",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "26726545-899c-447b-9fa9-23986f511784" : {
+          "templateId" : "HomebaseBannerIcon:brskirmishluckyllamas",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3b0ddae7-a097-46fc-8972-9a2895bba28b" : {
+          "templateId" : "HomebaseBannerIcon:brs8completionpirate",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "fd1ff496-1266-4c75-93d8-b486b69908b0" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner13",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3440f730-d0ff-4c9a-af88-74d2d3ace0e2" : {
+          "templateId" : "HomebaseBannerIcon:brs12_wingedcritter",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "5d930bf5-32b4-4975-ac03-d5c62f756a4c" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor20",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "34f93344-b5f8-4a9e-8b1a-fb8069dfbaf7" : {
+          "templateId" : "HomebaseBannerIcon:brs9completionrooster",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "1b3be30e-fae8-48bc-b071-45b8535c911a" : {
+          "templateId" : "EventPurchaseTracker:generic_instance",
+          "attributes" : {
+            "event_instance_id" : "e5tle5qesna5miuq1tvbbocn7m[0]2"
+          },
+          "quantity" : 1
+        },
+        "c2cd9797-bdf9-4e73-844e-be0fa1ca808b" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner22",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "a84e1736-0906-47c3-bb03-fbc624ab1787" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor39",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "29b53e23-a15b-4792-bcbb-034baa324ee0" : {
+          "templateId" : "HomebaseBannerIcon:standardbanner27",
+          "attributes" : {
+            "creation_time" : null,
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "a794ed01-fe96-4db6-b6e8-8a715c177a69" : {
+          "templateId" : "HomebaseBannerColor:defaultcolor40",
+          "attributes" : {
+            "item_seen" : true
+          },
+          "quantity" : 1
+        },
+        "3e8f3469-3227-4efd-aa21-6f8c801652ac" : {
+          "templateId" : "HomebaseBannerIcon:brs33_oysterknock",
+          "attributes" : {
+            "creation_time" : "2024-12-25T14:46:41.553Z",
+            "level" : 1,
+            "item_seen" : true
+          },
+          "quantity" : 1
+        }
+      }
+    }
+  } ],
+  "profileCommandRevision" : 1,
+  "serverTime" : "2025-11-04T20:16:00.506Z",
+  "responseVersion" : 1
+}
